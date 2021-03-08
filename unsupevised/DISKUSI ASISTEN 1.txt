@@ -1,0 +1,49 @@
+PENTING :
+- sekretaris              : ais 
+- gitlab / google drive?  : gitlab , wahyu
+- daftar nama praktikan   : sudah kita dapat
+
+======================================
+TM :
+- waktu                       : jumat 5 maret, 2021 pkl 16.30
+- ppt                         : ais
+- tugas telat dan tidak hadir : yuniar
+
+======================================
+PRAKTIKUM :
+
+  pra- praktikum :
+  - TP : 
+    - deploy : senin 16:30
+    - finish : rabu 16:30
+
+  praktikum :
+  - mulai modul 1 : 10 maret 2021
+  - waktu : 16:30 - 18:00
+  - pembagian jurnal dan pj
+    1 histogram dan konvolusi   : andak
+    2 Operasi Dasar Citra       : nunik
+    3 Ekualisasi dan Spesifikasi Histogram : sejoli yuni do
+    4 Transformasi Wavelet      : Cita
+    5 Perbaikan kualitas citra  : Patuwu
+    6 Deteksi Tepi              : Ais
+    7 Morfologi Citra           : Wahyu
+    8 Ekstraksi Ciri            : Juan
+    9 Segmentasi Citra          : Udin
+
+  pasca praktikum
+  - asistensi minimal 1
+
+======================================
+HAL LAINNYA :
+- excel nilai praktikan       : udin
+- perizinan                   : keluarga meninggal, lomba buat unram/prodi, sakit (ada surat)
+- tugas akhir                 : konsultasi sama asisten.
+
+======================================
+NILAI :
+nilai akhir tunngu info pak bimo, uas atau praktikum 
+PRAKTIKUM   : 70 
+  - TP        : 20
+  - JURNAL    : 80
+TUGAS AKHIR : 30 
